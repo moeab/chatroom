@@ -1,0 +1,8 @@
+{
+  "name": "group_chat",
+  "description": "a simple app where multiple people can chat with each other using NodeJS and socket.io",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest"
+  }
+}

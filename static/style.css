@@ -1,0 +1,33 @@
+* {
+	margin: 0 auto;
+}
+#message_list, #user_list {
+	margin-top: 30px;
+	display: inline-block;
+	overflow: auto;
+	height: 400px;
+	padding: 20px;
+}
+#message_list {
+	margin-left: 100px;
+	background: lightgray;
+	width: 60%;
+}
+#user_list {
+	color: white;
+	background: black;
+	width: 20%;
+}
+#msg {
+	width: 40%;
+	margin-left: 100px;
+	border: 2px solid darkblue;
+	padding: 5px;
+}
+#btn {
+	color: white;
+	background: darkblue;
+	border-radius: 20px;
+	padding: 8px;
+	font-size: 13px;
+}
